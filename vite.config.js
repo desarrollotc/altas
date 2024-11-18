@@ -8,7 +8,8 @@ export default defineConfig({
                 'resources/css/app.css',
                 'resources/js/app.js',
                 'resources/img/camilleros.png',
-                'resources/img/camilleros4.png'
+                'resources/img/camilleros4.png',
+                'resources/img/favicon.ico'
             ],
             refresh: true,
         }),
